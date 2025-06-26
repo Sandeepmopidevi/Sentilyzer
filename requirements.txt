@@ -1,0 +1,6 @@
+streamlit
+textblob
+vaderSentiment
+tweepy
+matplotlib
+pandas
